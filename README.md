@@ -1,6 +1,6 @@
 # Users API
 
-API feita em um vídeo postado no meu canal no YouTube. Para acessá-lo, [clique aqui](https://youtu.be/gU3kp7Aw0JI){:target="_blank"}
+API feita em um vídeo postado no meu canal no YouTube. Para acessá-lo, [clique aqui](https://youtu.be/gU3kp7Aw0JI).
 
 ## Tecnologias utilizadas
 
